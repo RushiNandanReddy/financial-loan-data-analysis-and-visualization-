@@ -1,17 +1,17 @@
 ### Financial-loan-data-analysis and visualization ###
 
-## 1. ### Project Title / Headline
+## 1. ## Project Title / Headline
 
 💳 Financial Loan Data Analysis and Visualization Dashboard
 An interactive data analytics project designed to analyze financial loan applications, borrower behavior, approval trends, and risk patterns using SQL, Python, Excel, and Power BI.
 This project converts raw loan data into meaningful insights that help in understanding loan performance and improving financial decision-making.
 
-## 2. ### Short Description / Purpose
+## 2. ## Short Description / Purpose
 
 The Financial Loan Data Analysis and Visualization Dashboard is built to explore and analyze loan application data to uncover insights related to loan approval rates, defaults, borrower income patterns, and credit risk.
 It is useful for banking professionals, data analysts, and financial decision-makers to make smarter lending decisions using data-driven insights.
 
-## 3. ### Tech Stack
+## 3. ## Tech Stack
 
 The project was built using the following tools and technologies:
 
@@ -22,7 +22,7 @@ The project was built using the following tools and technologies:
 🧠 DAX (Data Analysis Expressions) – KPI calculations and measures
 📁 File Formats – .xlsx, .sql, .ipynb, .pbix
 
-## 4. ### Data Source
+## 4. ## Data Source
 
 Source: Financial Loan Dataset (Banking/Loan Records)
 
@@ -35,7 +35,7 @@ Financial risk indicators
 
 This dataset is used to understand loan performance and borrower behavior patterns.
 
-## 5. ### Features / Highlights
+## 5. ## Features / Highlights
 • Business Problem
 
 Banks and financial institutions face challenges in predicting whether a borrower will repay a loan or default. Poor loan approval decisions can lead to financial loss.
@@ -99,5 +99,5 @@ Compares short-term vs long-term loan performance.
 💰 Enhances financial performance of institutions
 🎯 Helps identify high-risk customer segments
 
-## 6. ### Screenshots / Demo
+## 6. ## Screenshots / Demo
 
