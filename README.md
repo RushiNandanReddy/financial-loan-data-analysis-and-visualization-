@@ -103,4 +103,7 @@ Compares short-term vs long-term loan performance.
 
 ![Uploading summary power bi.png…](https://github.com/RushiNandanReddy/financial-loan-data-analysis-and-visualization-/blob/main/power%20bi/Screenshot%202026-06-03%20114022.png)
 
+![Uploading overview power bi.png…](https://github.com/RushiNandanReddy/financial-loan-data-analysis-and-visualization-/blob/main/power%20bi/Screenshot%202026-06-03%20130252.png)
+
+
 
